@@ -144,7 +144,7 @@
 
 @media screen and (max-width: 630px) {
   .popup {
-    align-items: flex-end;
+    align-items: center;
   }
 
   .popup__content {
